@@ -17,7 +17,7 @@ def main():
 if __name__ == '__main__':
     main()
 
-client = Spot(api_key="mx0vgl8dUL4b7QCLLf", api_secret="38d82aace6e64a61971fc42bd7b9d01d")
+client = Spot(api_key="api_key", api_secret="api_secret")
 
 def check_deposit():
     try:
